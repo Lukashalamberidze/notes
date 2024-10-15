@@ -38,3 +38,4 @@ _-Underscore
  
  👑-Crown
  
+- [CLI commands](docs/cli.md)
