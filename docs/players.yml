@@ -1,1 +1,8 @@
-
+- name: James Brown  # string
+  sport: Basketball  # string
+  team: 
+    name: Raptors    # string
+    city: Toronto    # string
+- name: Anna Smith   # string
+  sport: Tennis      # string
+  team: null         # null (no team)
